@@ -1,6 +1,6 @@
 # 在线安装
 
-`pip install git+https://github.com/Twotiger/dingding.git`
+`pip install git+https://github.com/zhaojiedi1992/dingding.git`
 
 # 例子
 ```
